@@ -5,7 +5,8 @@
 
 - 💬 Ask me about **Laravel,vue**
 
-<h3 align="left">Connect with me:</h3>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MyatKhineL)](https://github.com/anuraghazra/github-readme-stats)
+
 <p align="left">
 </p>
 
